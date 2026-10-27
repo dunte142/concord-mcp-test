@@ -17,7 +17,11 @@ The dashboard timeline shows the full flow: `claim_work` -> `close_task` -> `han
 
 ## Screenshots
 
-(put the three screenshots here)
+<img width="1895" height="624" alt="1" src="https://github.com/user-attachments/assets/8b49bb28-68b9-4e05-a5a9-aa88c3287e90" />
+<img width="1911" height="630" alt="2" src="https://github.com/user-attachments/assets/b213fa1e-38ff-4daf-b8ab-f3f85747daaa" />
+<img width="1919" height="1036" alt="3" src="https://github.com/user-attachments/assets/5c96ab52-3659-4a46-8bae-82b77e5ab7c0" />
+
+
 
 ## Notes
 
